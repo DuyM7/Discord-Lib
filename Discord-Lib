@@ -14,7 +14,7 @@ local pfp
 local user
 local tag
 local userinf
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DuyM7/Function-FindFirstChild-Plr/main/blacklist"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DuyM7/Hoclomcongthuc/main/vohai"))()
 pcall(function()
 	userinfo = HttpService:JSONDecode(readfile("discordlibinfo.txt"));
 end)
